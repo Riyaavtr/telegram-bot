@@ -1,0 +1,43 @@
+{
+    "source_channel_ids": [
+        -1002864831433,
+        -1002197241829
+    ],
+    "channels": [
+        {
+            "id": -1002443655805,
+            "referral_codes": {
+                "crown11": "e7c8cd",
+                "jeetna": "2fe2611"
+            }
+        },
+        {
+            "id": -1002255302623,
+            "referral_codes": {
+                "crown11": "a85bcb",
+                "jeetna": "2fcfbb8"
+            }
+        },
+        {
+            "id": -1002220813736,
+            "referral_codes": {
+                "crown11": "aed24c",
+                "jeetna": "2fd4ab0"
+            }
+        },
+        {
+            "id": -1002367211394,
+            "referral_codes": {
+                "crown11": "a85bcb",
+                "jeetna": "2fcfbb8"
+            }
+        },
+        {
+            "id": -1002333405254,
+            "referral_codes": {
+                "crown11": "bb52cb",
+                "jeetna": "2fd047a"
+            }
+        }
+    ]
+}
